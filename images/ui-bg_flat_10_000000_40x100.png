@@ -1,0 +1,1469 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	404
+</title><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><meta name="format-detection" content="telephone=no" /><link rel="stylesheet" href="/common/Style2/_resource/css/swiper.css" />
+      <!-- headerfooter css start -->
+      <!-- <link rel="stylesheet" href="/common/Style2/css/core.css" /> -->
+      <link rel="stylesheet" href="/common/Style2/css/Elastic-layer.css" /><link rel="stylesheet" href="/common/Style2/css/headerFooter.css" />
+          <!-- headerfooter css end -->
+          <link rel="stylesheet" href="/common/Style2/css/base.css" />
+            <script type="text/javascript" src="/common/Style2/_resource/js/jquery-1.8.2.min.js"></script>
+            <script type="text/javascript" src="/common/Style2/_resource/js/jquery.imagesloaded.min.js"></script>
+            <script type="text/javascript" src="/common/Style2/_resource/js/jQuery.resizeEnd.min.js"></script>
+            <script type="text/javascript" src="/common/Style2/_resource/js/idangerous.swiper.min.js"></script>
+            <script type="text/javascript" src="/common/Style2/js/main.js"></script>
+            <script type="text/javascript" src="/common/Style2/js/icheck.js"></script>
+          <link rel="stylesheet" href="/common/css/base_ext.css" type="text/css" /><link rel="stylesheet" href="/common/css/module.css" type="text/css" /><link rel="stylesheet" href="/common/css/products.css" type="text/css" /><link rel="stylesheet" href="/common/css/print.css" type="text/css" media="print" /><link rel="stylesheet" href="/common/css/l-global.css" type="text/css" /><link rel="stylesheet" href="/common/css/l-download.css" type="text/css" />
+
+    <!--Gridsum tracking code start. -->
+    <script type="text/javascript" src="/common/js/tracking_code.js"></script>
+    <!--Gridsum tracking code end. -->
+
+    <script type="text/javascript" src="/common/js/jquery.ui.core.js"></script>
+
+    <script type="text/javascript" src="/common/js/jquery.easing.js"></script>
+
+    <script type="text/javascript" src="/common/js/jquery.accordion.js"></script>
+
+    <script type="text/javascript" src="/common/js/epson.common.js"></script>
+
+    <script type="text/javascript" src="/common/js/l-popup-ajax.js"></script>
+
+    <script type="text/javascript" src="/common/js/ccw/_ccwsel.js"></script>
+
+<style>
+    .error_body{ width: 100%; height: 786px; background: url("/common/Style2/images/404bg.jpg") center center no-repeat scroll; }
+    .error_body p{ font-size: 23px; color: #000; line-height: 40px; text-align: center; padding-top: 457px; }
+    .error_body .returnInfo{ font-size: 22px; color: #000; text-align: center; padding-top: 85px; }
+    .error_body .returnInfo a{ display: inline-block; padding: 10px 20px; font-size: 18px; color: #ffffff; text-align: center; background: #058dea; }
+    @media (max-width: 767px) {
+        .error_body{ height: 500px; background: url("/common/Style2/images/404bg_mb.jpg") center center no-repeat scroll; }
+        .error_body p{ font-size: 16px; padding-top: 290px; line-height: 24px; }
+        .error_body .returnInfo{ font-size: 15px; padding-top: 45px; }
+        .error_body .returnInfo a{ font-size: 14px; }
+    }
+    @media (max-width: 367px) {
+        .error_body p, .error_body .returnInfo, .error_body .returnInfo a{ font-size: 12px; }
+    }
+</style>
+</head>
+<body>
+    <?xml version="1.0" encoding="utf-8"?>
+<!--top start-->
+<link rel="stylesheet" type="text/css" href="/common/Style/css/nh2016.css">
+<div class="adv-wrapper">
+  <div class="adv-wrapper-text">&lt;广告&gt;</div>
+</div>
+<div class="top_wrapper">
+  <ul class="top_wrapper1">
+    <li class="first_line">
+      <a href="/">
+        <span class="top_user">首页</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://myepson.epson.com.cn/frontweb/webapp/index.aspx" target="_blank">
+        <img src="/common/Style/img/person.png" class="user_pic" />
+        <span class="top_user">用户俱乐部</span>
+      </a>
+    </li>
+    <!-- 
+    <li>
+      <a href="http://www.epson.com/" target="_blank">
+        <span class="top_words">Global</span>
+      </a>
+    </li> -->
+  </ul>
+</div>
+<!--top end-->
+<!--header start-->
+<div class="header">
+  <div class="header_wrapper">
+    <a href="/">
+      <img src="/common/Style/img/logo.png" class="logo">
+      </a>
+    <ul class="nav">
+      <li>
+        <a href="/Apps/forhome/index.aspx">家用系列</a>
+        <!--二级菜单-->
+        <div class="hover_push">
+          <div class="hover_pushWrapper">
+            <div class="p_menu_1">
+              <ul class="p_nav_0">
+                <li class="active">
+                  <div>
+                    <a href="javascript:void(0);">产品品类</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="p_menu_2">
+              <div class="swiper-container swiper_4">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide ">
+                    <a href="/products/l-printer/?application=1" onclick="forHome('mocang','pc')">
+                      <img src="/common/Style/img/scroll_1_nav.png" class="pc2 pc_nav" alt="墨仓式打印机/一体机" />
+                      <span class="navShowProducts_info navShowProducts_info_mo navShowProducts_special">
+                        墨仓式<sup>&reg;</sup>打印机/一体机
+                      </span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/inkjet/?application=1" onclick="forHome('penmo','pc')">
+                      <img src="/common/Style/img/scroll_2_nav.png" class="pc2 pc_nav" alt="喷墨打印机/一体机" />
+                      <span class="navShowProducts_info navShowProducts_info_mo">喷墨打印机/一体机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/projectors/?application=1"  onclick="forHome('touying','pc')">
+                      <img src="/common/Style/img/scroll_5_nav_home.png" class="pc2 pc_nav" alt="投影机" />
+                      <span class="navShowProducts_info">投影机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/scanners/?application=1" onclick="forHome('saomiao','pc')">
+                      <img src="/common/Style/img/scroll_3_nav.png" class="pc2 pc_nav" alt="扫描仪" />
+                      <span class="navShowProducts_info">扫描仪</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/Apps/HaoCai/Index.aspx" target="_blank" onclick="forHome('haocai','pc')">
+                      <img src="/common/Style/img/scroll_16_nav.png" class="pc2 pc_nav" alt="耗材及介质" />
+                      <span class="navShowProducts_info">耗材及介质</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/label/?application=1" onclick="forHome('targ','pc')">
+                      <img src="/common/Style/img/scroll_9_nav_home.png" class="pc2 pc_nav" alt="标签打印机">
+                        <span class="navShowProducts_info">标签打印机</span>
+                      </a>
+                  </div>
+
+
+
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <img src="/common/Style/img/arrow_l.png" class="arrow_r">
+                <img src="/common/Style/img/arrow_r.png" class="arrow_l">
+
+
+
+
+                
+            </div>
+          </div>
+        </div>
+        <!---->
+      </li>
+      <li>
+        <a href="/Apps/forwork/index.aspx">商用系列</a>
+        <!--二级菜单-->
+        <div class="hover_push">
+          <div class="hover_pushWrapper">
+            <div class="p_menu_1">
+              <ul class="p_nav_0">
+                <li class="active">
+                  <div>
+                    <a href="javascript:void(0);">产品品类</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="p_menu_2">
+              <div class="swiper-container swiper_5">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide ">
+                    <a href="/products/l-printer/?application=2" onclick="forWork('mocang','pc')">
+                      <img src="/common/Style/img/scroll_1_nav.png" class="pc2 pc_nav" alt="墨仓式打印机/一体机" />
+                      <span class="navShowProducts_info navShowProducts_info_mo navShowProducts_special">
+                        墨仓式<sup>&reg;</sup>打印机/一体机
+                      </span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/inkjet/?application=2"onclick="forWork('penmo','pc')">
+                      <img src="/common/Style/img/scroll_2_nav.png" class="pc2 pc_nav" alt="喷墨打印机/一体机" />
+                      <span class="navShowProducts_info navShowProducts_info_mo">喷墨打印机/一体机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/dot/?application=2" onclick="forWork('zhenshi','pc')">
+                      <img src="/common/Style/img/scroll_13_nav.png" class="pc2 pc_nav" alt="针式打印机" />
+                      <span class="navShowProducts_info">针式打印机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/Apps/HaoCai/Index.aspx" target="_blank" onclick="forWork('haocai','pc')">
+                      <img src="/common/Style/img/scroll_16_nav.png" class="pc2 pc_nav" alt="耗材及介质" />
+                      <span class="navShowProducts_info">耗材及介质</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/scanners/?application=2" onclick="forWork('saomiao','pc')">
+                      <img src="/common/Style/img/scroll_3_nav.png" class="pc2 pc_nav" alt="扫描仪" />
+                      <span class="navShowProducts_info">扫描仪</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/projectors/?application=2" onclick="forWork('touying','pc')">
+                      <img src="/common/Style/img/scroll_5_nav.png" class="pc2 pc_nav" alt="投影机" />
+                      <span class="navShowProducts_info">投影机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/large-format/?application=2" onclick="forWork('big','pc')">
+                      <img src="/common/Style/img/scroll_4_nav.png" class="pc2 pc_nav" alt="大幅面打印机" />
+                      <span class="navShowProducts_info">大幅面打印机</span>
+                    </a>
+                  </div>
+
+                  <div class="swiper-slide">
+                    <a href="/products/sd/?application=2" onclick="forWork('micro','pc')">
+                      <img src="/common/Style/img/scroll_7_nav.png" class="pc2 pc_nav" alt="微型打印机" />
+                      <span class="navShowProducts_info">微型打印机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/robots/" target="_blank" onclick="forWork('robot','pc')">
+                      <img src="/common/Style/img/scroll_8_nav.png" class="pc2 pc_nav" alt="机器人" />
+                      <span class="navShowProducts_info">机器人</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/label/?application=2" onclick="forWork('targ','pc')">
+                      <img src="/common/Style/img/scroll_9_nav.png" class="pc2 pc_nav" alt="标签打印机" />
+                      <span class="navShowProducts_info">标签打印机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/Apps/ed/ECC_home.aspx" target="_blank" onclick="forWork('dianzi','pc')">
+                      <img src="/common/Style/img/scroll_15_nav.png" class="pc2 pc_nav" alt="电子元器件" />
+                      <span class="navShowProducts_info">电子元器件</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/d-laber/?application=2" onclick="forWork('shuma','pc')">
+                      <img src="/common/Style/img/scroll_10_nav.png" class="pc2 pc_nav" alt="数码喷墨标签印刷机" />
+                      <span class="navShowProducts_info navShowProducts_info_mo">数码喷墨标签印刷机</span>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a href="/products/dry-minilab/?application=2" onclick="forWork('ganshi','pc')">
+                      <img src="/common/Style/img/scroll_6_nav.png" class="pc2 pc_nav" alt="干式影像输出设备" />
+                      <span class="navShowProducts_info navShowProducts_info_mo">干式影像输出设备</span>
+                    </a>
+                  </div>
+
+
+
+
+                  <div class="swiper-slide">
+                    <a href="/products/discproducer/?application=2" onclick="forWork('cd','pc')">
+                      <img src="/common/Style/img/scroll_12_nav.png" class="pc2 pc_nav" alt="光盘刻录机" />
+                      <span class="navShowProducts_info">光盘刻录机</span>
+                    </a>
+                  </div>
+
+                  <!-- <div class="swiper-slide">
+                                                  <a href="/products/media-storage-viewers/?application=2">
+                                                        <img src="/common/Style/img/scroll_11_nav.png" class="pc2 pc_nav">
+                                                        <span class="navShowProducts_info">存储浏览器</span> </a>
+                                                </div> -->
+
+
+                  <!-- <div class="swiper-slide">
+                                                  <a href="/products/laser/?application=2">
+                                                        <img src="/common/Style/img/scroll_14_nav.png" class="pc2 pc_nav">
+                                                        <span class="navShowProducts_info">激光打印机</span> </a>
+                                                </div> -->
+
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <img src="/common/Style/img/arrow_l.png" class="swiper_5_r swiper_arrow_r">
+                <img src="/common/Style/img/arrow_r.png" class="swiper_5_l swiper_arrow_l">
+
+
+
+
+                
+            </div>
+          </div>
+        </div>
+        <!---->
+      </li>
+      <li>
+        <a href="/Apps/tech_support/index.aspx">服务支持</a>
+        <!--二级菜单-->
+        <div class="hover_push">
+          <div class="hover_pushWrapper">
+            <div class="p_menu_1">
+              <ul class="p_nav_0 nav_ul">
+                <li class="active">
+                  <div class="swiper_zizhufuwu">
+                    <a href="javascript:void(0);">自助服务</a>
+                  </div>
+                </li>
+                <li>
+                  <div class="swiper_load_fuwu">
+                    <a href="javascript:void(0);">寻求帮助</a>
+                  </div>
+                </li>
+                <li>
+                  <div class="swiper_zhengce_fuwu">
+                    <a href="javascript:void(0);">维修服务</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="p_menu_2 show_pic">
+              <div class="swiper-container swiper_6 swiper_zizhufuwu">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide ">
+                    <a onclick="qudongjishouce()"  href="/Apps/tech_support/GuideDrive.aspx?columnid=384&sort-1=376&product-2=378">
+                      <img src="/common/Style/img/pic_4.png" class="pc2" alt="驱动及手册证书下载" />
+                      <p style="color: #323232; font-size:14px;">
+                        驱动及手册证书下载 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="caozuoxitong()" href="/apps/tech_support/solution.aspx">
+                      <img src="/common/Style/img/pic_5.png" class="pc2" alt="操作系统及应用软件支持" />
+                      <p style="color: #323232; font-size:14px;">
+                        操作系统及应用软件支持 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="changjianwenti()"  href="/apps/tech_support/productlist.aspx">
+                      <img src="/common/Style/img/pic_6.png" class="pc2" alt="常见问题" />
+                      <p style="color: #323232; font-size:14px;">
+                        常见问题 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="shipinjiaocheng()"  href="/Apps/tech_support/videoCourse.aspx">
+                      <img src="/common/Style/img/pic_7.png" class="pc2" alt="视频教程" />
+                      <p style="color: #323232; font-size:14px;">
+                        视频教程 >
+                      </p>
+                    </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <div class="swiper-container swiper_6 swiper_load_fuwu">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide ">
+                    <a onclick="fuwuchaxun()" href="/Apps/tech_support/website.aspx">
+                      <img src="/common/Style/img/load_nav_1.png" class="pc2" alt="服务机构查询" />
+                      <p style="color: #323232; font-size:14px;">
+                        服务机构查询 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a  onclick="ziaxiangongchengshi()" href="http://www.founderuc.cn:8181/portal/epson/" target="_blank">
+                      <img src="/common/Style/img/load_nav_2.png" class="pc2" alt="在线工程师" />
+                      <p style="color: #323232; font-size:14px;">
+                        在线工程师 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="weixinfuwu()" href="#" class="weixin">
+                      <img src="/common/Style/img/load_nav_3.png" class="pc2 weixin" alt="微信服务" />
+                      <p style="color: #323232; font-size:14px;">
+                        微信服务 >
+                      </p>
+                    </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- -->
+              <div class="swiper-container swiper_6 swiper_zhengce_fuwu">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide ">
+                    <a onclick="weixiuzhengce()" href="/apps/tech_support/warranty.aspx">
+                      <img src="/common/Style/img/zhengce_nav_2.png" class="pc2" alt="维修政策" />
+                      <p style="color: #323232; font-size:14px;">
+                        维修政策 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="goumaifuwu()" href="/apps/hotline_service/feature.aspx">
+                      <img src="/common/Style/img/zhengce_nav_1.png" class="pc2" alt="购买服务" />
+                      <p style="color: #323232; font-size:14px;">
+                        购买服务 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="zhuanxiangweixiu()" href="/apps/tech_support/renew.aspx">
+                      <img src="/common/Style/img/zhengce_nav_3.png" class="pc2" alt="专项维修" />
+                      <p style="color: #323232; font-size:14px;">
+                        专项维修 >
+                      </p>
+                    </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- -->
+            </div>
+          </div>
+        </div>
+        <!---->
+      </li>
+      <li>
+        <a href="/Apps/buy/index.aspx">购买指南</a>
+        <!--二级菜单-->
+        <div class="hover_push">
+          <div class="hover_pushWrapper">
+            <div class="p_menu_1">
+              <ul class="p_nav_0 nav_ul">
+                <li class="active">
+                  <div>
+                    <a href="javascript:void(0);">如何购买</a>
+                  </div>
+                </li>
+                <li class="cuxiaoxinxi">
+                  <div>
+                    <a href="javascript:void(0);">促销信息</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="p_menu_2 show_pic">
+              <div class="swiper-container swiper_6 swiper_howToBuy">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide ">
+                    <a onclick="dealerSearch()" href="/Apps/buy/index.aspx">
+                      <img src="/common/Style/img/pic_2.png" class="pc2" alt="经销商查询" />
+                      <p style="color: #ffffff; font-size:14px;">
+                        经销商查询 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a class="external" data-trackEvent="下拉框,购买指南_如何购买,爱普生天猫旗舰店" data-track="targetpage/xialakuang/tianmao," href="https://epson.tmall.com/" target="_blank">
+                      <img src="/common/Style/img/pic_1.png" class="pc2" alt="爱普生天猫旗舰店" />
+                      <p style="color: #ffffff; font-size:14px;">
+                        爱普生天猫旗舰店 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="industry()" href="/apps/solution/index.aspx">
+                      <img src="/common/Style/img/pic_3.png" class="pc2" alt="爱普生行业方案体验中心" />
+                      <p style="color: #ffffff; font-size:14px;">
+                        爱普生行业方案体验中心 >
+                      </p>
+                    </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- 促销信息 -->
+              <div class="rotate_pic_cx">
+                <div class="swiper-container swiper_8">
+                  <div class="swiper-wrapper clear ">
+                    <div class="swiper-slide ">
+                      <a onclick="cuxiaoInfo()" href="http://www1.epson.com.cn/mocangshi/" target="_blank">
+                        <img src="/common/Style/img/howToBuy.png" class="pc2 pc_nav_cx ">
+                        </a>
+                    </div>
+                  </div>
+                  <div class="clearFix">
+                  </div>
+                </div>
+                <img src="/common/Style/img/arrow_l.png" class="arrow_r8">
+                  <img src="/common/Style/img/arrow_r.png" class="arrow_l8">
+
+
+
+
+                  
+              </div>
+              <!--cuxiao-->
+            </div>
+          </div>
+        </div>
+        <!---->
+      </li>
+      <li>
+        <a href="/Apps/aboutepson/index.aspx">关于爱普生</a>
+        <!--二级菜单-->
+        <div class="hover_push">
+          <div class="hover_pushWrapper">
+            <div class="p_menu_1">
+              <ul class="p_nav_0 nav_ul">
+                <li class="active">
+                  <div>
+                    <a href="javascript:void(0);">关于爱普生</a>
+                  </div>
+                </li>
+                <li>
+                  <div>
+                    <a href="javascript:void(0);">新闻资讯</a>
+                  </div>
+                </li>
+                <li>
+                  <div>
+                    <a href="javascript:void(0);">联系我们</a>
+                  </div>
+                </li>
+                <li>
+                  <div>
+                    <a href="javascript:void(0);">加入我们</a>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="p_menu_2 backforp show_pic">
+              <div class="swiper-container swiper_6 swiper_has_7 swiper_epson">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide">
+                    <a onclick="aboutEpson()" href="/Apps/aboutepson/aboutEpson.aspx">
+                      <img src="/common/Style/img/pic_8.png" class="pc2" alt="公司简介" />
+                      <p>
+                        公司简介 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="gaoceng()" href="/Apps/aboutepson/01-index.aspx">
+                      <img src="/common/Style/img/pic_9.png" class="pc2" alt="高层致词" />
+                      <p>
+                        高层致词 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="jingying()" href="/Apps/aboutepson/02-index.aspx">
+                      <img src="/common/Style/img/pic_10.png" class="pc2" alt="经营理念" />
+                      <p>
+                        经营理念 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="shehuizeren()" href="/Apps/aboutepson/08-index.aspx">
+                      <img src="/common/Style/img/pic_11.png" class="pc2" alt="企业社会责任" />
+                      <p>
+                        企业社会责任 >
+                      </p>
+                    </a>
+                  </div>
+                  <div class="swiper-slide">
+                    <a onclick="yewuWeb()" href="/Apps/aboutepson/11-index.aspx">
+                      <img src="/common/Style/img/pic_12.png" class="pc2" alt="中国业务网络" />
+                      <p>
+                        中国业务网络 >
+                      </p>
+                    </a>
+                  </div>
+                  <!-- <div class="swiper-slide">
+                    <a href="/Apps/aboutepson/14-index.aspx">
+                      <img src="/common/Style/img/pic_13.png" class="pc2">
+                        <p>
+                          爱普生40周年 >
+                        </p>
+                      </a>
+                  </div> -->
+                  <div class="swiper-slide">
+                    <a onclick="chuangxin()" href="/Apps/aboutepson/12-index.aspx">
+                      <img src="/common/Style/img/pic_14.png" class="pc2" alt="创新" />
+                      <p>
+                        创新 >
+                      </p>
+                    </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- -->
+              <div class="swiper-container swiper_6 swiper_has_7 swiper_news">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide">
+                    <a onclick="newsZixun()" href="/news/">
+                      <img src="/common/Style/img/news.png" class="pc2" alt="新闻资讯" />
+                      </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- -->
+              <div class="swiper-container swiper_6 swiper_has_7 swiper_linkUs">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide">
+                    <a onclick="linkUs()" href="/Apps/aboutepson/13-index.aspx">
+                      <img src="/common/Style/img/link_us.png" class="pc2" alt="联系我们" />
+                      </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- -->
+              <div class="swiper-container swiper_6 swiper_has_7 swiper_joinUs">
+                <div class="swiper-wrapper clear ">
+                  <div class="swiper-slide">
+                    <a onclick="joinUs()" href="/Apps/career/PositionInfoSearch.aspx" target="_blank">
+                      <img src="/common/Style/img/joinUs.png" class="pc2" alt="加入我们" />
+                      </a>
+                  </div>
+                </div>
+                <div class="clearFix">
+                </div>
+              </div>
+              <!-- -->
+            </div>
+          </div>
+        </div>
+        <!---->
+      </li>
+      <li class="soso">
+        <a href="javascript:void(0);">
+          <img src="/common/Style/img/soso.png">搜索</a>
+        <!--二级菜单-->
+        <div class="soso_push soso_push_pad">
+          <input id="searchProducts_all" type="text" name="" >
+            <img src="/common/Style/img/soso_bg.png" class="soso_close">
+
+
+
+            
+        </div>
+        <!---->
+      </li>
+    </ul>
+    <!--搜索-->
+             <div class="collapse-m"  id="soso" style="display: none">
+                <form id="searchProducts_form_m" method="get" name="searchProducts_form_m"  action="" onsubmit="return false;">
+                  <div class="so_pul">
+                    <div class="so_pul_m  clearfix">
+                      <input type="text" id="search_m" name="" placeholder="LQ-630K" type="text" name="" class="ui-autocomplete-input" autocomplete="off" style=" -webkit-appearance:none;  -webkit-tap-highlight-color:rgba(0,0,0,0); ">
+                      <img src="/common/new/images/clear.png" class="sc_m">
+                      <div class="search_m_btn"></div>
+                    </div>
+                  </div>
+                  <div class="redian">
+                    <h2><div class="rd_text">热门搜索</div><div class="rd_line"></div></h2>
+                    <div class="rd_bq">
+                      <ul>
+                        <li><a href="/Apps/search/index.aspx?key=LQ-630KII">LQ-630KII</a></li>
+                        <li><a href="/Apps/search/index.aspx?key=LQ-730KII">LQ-730KII</a></li>
+                        <li><a href="/Apps/search/index.aspx?key=CH-TW5210">CH-TW5210</a></li>
+                        <li><a href="/Apps/search/index.aspx?key=L365">L365</a></li>
+                        <li><a href="/Apps/search/index.aspx?key=L455">L455</a></li>
+			 <li><a href="/Apps/search/index.aspx?key=DS-530">DS-530</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </form>
+              </div>
+    <div class="m_nav">
+      <a href="javascript:void(0);" class="sosoM">
+        <img src="/common/Style/img/soso_m.png">
+        </a>
+      <a href="javascript:void(0);" class="showNav">
+        <img src="/common/Style/img/nav.png" class="showNav_img">
+        </a>
+    </div>
+  </div>
+  <div class="menu_push">
+    <div class="m_menu_1">
+      <ul class="nav_ul">
+        <li class="active">
+          <div>
+            <a href="javascript:void(0);">家用系列</a>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a href="javascript:void(0);">商用系列</a>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a href="javascript:void(0);">服务支持</a>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a href="javascript:void(0);">购买指南</a>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a href="javascript:void(0);">关于爱普生</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="m_menu_2">
+      <ul>
+        <li style="height: 15px; border: none;">&nbsp;</li>
+        <li class="m_menu_2_firstLi">
+          <a href="/Apps/forhome/index.aspx">
+            <span class="m_menu_productsInfo">
+              家用系列<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr_T.png"/>
+              </em>
+            </span>
+          </a>
+
+        </li>
+        <li >
+          <a href="/products/l-printer/?application=1" onclick="forHome('mocang','m')">
+            <span class="m_menu_productsInfo navShowProducts_special">
+              墨仓式<sup>&reg;</sup>打印机/一体机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/inkjet/?application=1" onclick="forHome('penmo','m')">
+            <span class="m_menu_productsInfo">
+              喷墨打印机/一体机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/projectors/?application=1" onclick="forHome('touying','m')">
+            <span class="m_menu_productsInfo">
+              投影机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/Apps/HaoCai/Index.aspx" onclick="forHome('haocai','m')">
+            <span class="m_menu_productsInfo">
+              耗材及介质<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/label/?application=1" onclick="forHome('targ','m')">
+            <span class="m_menu_productsInfo">
+              标签打印机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/scanners/?application=1" onclick="forHome('saomiao','m')">
+            <span class="m_menu_productsInfo">
+              扫描仪<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+
+
+      </ul>
+      <!--商用系列-->
+      <ul>
+        <li style="height: 15px; border: none;">&nbsp;</li>
+        <li class="m_menu_2_firstLi">
+          <a href="/Apps/forwork/index.aspx">
+            <span class="m_menu_productsInfo">
+              商用系列<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr_T.png"/>
+              </em>
+            </span>
+          </a>
+
+        </li>
+        <li >
+          <a href="/products/l-printer/?application=2" onclick="forWork('mocang','m')">
+            <span class="m_menu_productsInfo">
+              墨仓式<sup>&reg;</sup>打印机/一体机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/dot/?application=2" onclick="forWork('zhenshi','m')">
+            <span class="m_menu_productsInfo">
+              针式打印机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/inkjet/?application=2" onclick="forWork('penmo','m')">
+            <span class="m_menu_productsInfo">
+              喷墨打印机/一体机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/large-format/?application=2" onclick="forWork('big','m')">
+            <span class="m_menu_productsInfo">
+              大幅面打印机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/projectors/?application=2" onclick="forWork('touying','m')">
+            <span class="m_menu_productsInfo">
+              投影机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/sd/?application=2" onclick="forWork('micro','m')">
+            <span class="m_menu_productsInfo">
+              微型打印机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/Apps/HaoCai/Index.aspx" onclick="forWork('haocai','m')">
+            <span class="m_menu_productsInfo">
+              耗材及介质<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/Apps/ed/ECC_home.aspx" onclick="forWork('dianzi','m')">
+            <span class="m_menu_productsInfo">
+              电子元器件<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/dry-minilab/?application=2" onclick="forWork('ganshi','m')">
+            <span class="m_menu_productsInfo">
+              干式影像输出设备<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/scanners/?application=2" onclick="forWork('saomiao','m')">
+            <span class="m_menu_productsInfo">
+              扫描仪<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+
+
+
+
+        <li>
+          <a href="/products/label/?application=2" onclick="forWork('targ','m')">
+            <span class="m_menu_productsInfo">
+              标签打印机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/robots/" onclick="forWork('robot','m')">
+            <span class="m_menu_productsInfo">
+              机器人<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <!-- <li><a href="/products/media-storage-viewers/?application=2"><span class="m_menu_productsInfo">存储浏览器<em class="m_menu_nav" ><img src="/common/Style/img/menu_nav_arr.png"/></em></span></a> </li> -->
+        <li>
+          <a href="/products/discproducer/?application=2" onclick="forWork('cd','m')">
+            <span class="m_menu_productsInfo">
+              光盘刻录机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/products/d-laber/?application=2" onclick="forWork('shuma','m')">
+            <span class="m_menu_productsInfo">
+              数码喷墨标签印刷机<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+
+        <!-- <li><a href="/products/laser/?application=2"><span class="m_menu_productsInfo">激光打印机<em class="m_menu_nav" ><img src="/common/Style/img/menu_nav_arr.png"/></em></span></a> </li> -->
+
+      </ul>
+      <!--服务支持-->
+      <ul>
+        <li style="height: 15px; border: none;">&nbsp;</li>
+        <li class="m_menu_2_firstLi">
+          <a href="/Apps/tech_support/index.aspx">
+            <span class="m_menu_productsInfo">
+              服务支持<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr_T.png"/>
+              </em>
+            </span>
+          </a>
+
+        </li>
+        <li class="menu_nav2_right_buy menu_nav2_right">
+          <a href="#">
+            <span
+                                class="m_menu_productsInfo m_menu_productsInfo_T">自助服务</span>
+          </a>
+          <ul class="no_bd">
+            <li>
+              <a onclick="qudongjishouce()" href="/Apps/tech_support/GuideDrive.aspx?columnid=384&sort-1=376&product-2=378">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  驱动及手册证书下载 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="caozuoxitong()" href="/apps/tech_support/solution.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  操作系统及应用软件支持<em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="changjianwenti()" href="/apps/tech_support/productlist.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  常见问题 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="shipinjiaocheng()" href="/apps/tech_support/faq/QA-content.aspx?ColumnId=378&ArticleId=37523&pg=&view=&columnid2=378">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  视频教程 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="menu_nav2_right_buy menu_nav2_right">
+          <a href="#">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              寻求帮助
+            </span>
+          </a>
+          <ul class="no_bd">
+            <li>
+              <a onclick="fuwuchaxun()" href="/Apps/tech_support/website.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  服务机构查询 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="ziaxiangongchengshi()" href="http://www.founderuc.cn:8181/portal/epson/" target="_blank">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  在线工程师 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="weixinfuwu()" href="#" class="weixin">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  微信服务 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="menu_nav2_right_buy menu_nav2_right">
+          <a href="#">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              维修服务
+            </span>
+          </a>
+          <ul class="no_bd">
+            <li>
+              <a onclick="weixiuzhengce()" href="/apps/tech_support/warranty.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  维修政策 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="goumaifuwu()" href="/apps/hotline_service/feature.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  购买服务 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="zhuanxiangweixiu()" href="/apps/tech_support/renew.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  专项维修 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <!--购买指南-->
+      <ul>
+        <li style="height: 15px; border: none;">&nbsp;</li>
+        <li class="m_menu_2_firstLi">
+          <a href="/Apps/buy/index.aspx">
+            <span class="m_menu_productsInfo">
+              购买指南<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr_T.png"/>
+              </em>
+            </span>
+          </a>
+
+        </li>
+        <li class=" menu_nav2_right menu_nav2_right_buy">
+          <a href="#">
+            <span
+                                class="m_menu_productsInfo m_menu_productsInfo_T">如何购买</span>
+          </a>
+          <ul class="no_bd">
+            <li>
+              <a onclick="dealerSearch()" href="/Apps/buy/index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  经销商查询 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a class="external" data-trackEvent="下拉框,购买指南_如何购买,爱普生天猫旗舰店" data-track="targetpage/xialakuang/tianmao," href="https://epson.tmall.com/" target="_blank">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  爱普生天猫旗舰店 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="industry()" href="/apps/solution/index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  爱普生方案体验中心 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a onclick="cuxiaoInfo()" href="http://www1.epson.com.cn/mocangshi/" target="_blank">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              促销信息<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+      </ul>
+      <!--关于爱普生-->
+      <ul>
+        <li style="height: 15px; border: none;">&nbsp;</li>
+        <li class="m_menu_2_firstLi">
+          <a href="/Apps/aboutepson/index.aspx">
+            <span class="m_menu_productsInfo">
+              关于爱普生<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr_T.png"/>
+              </em>
+            </span>
+          </a>
+
+        </li>
+        <li class="menu_nav2_right">
+          <a href="/Apps/aboutepson/index.aspx">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              关于爱普生
+            </span>
+          </a>
+          <ul class="no_bd">
+            <li>
+              <a onclick="aboutEpson()" href="/Apps/aboutepson/aboutEpson.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  公司简介<em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="gaoceng()" href="/Apps/aboutepson/01-index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  高层致词<em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="jingying()" href="/Apps/aboutepson/02-index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  经营理念<em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="shehuizeren()" href="/Apps/aboutepson/08-index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  企业社会责任 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a onclick="yewuWeb()" href="/Apps/aboutepson/11-index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  中国业务网络 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+            <!-- <li>
+              <a href="/Apps/aboutepson/14-index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  爱普生40周年<em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li> -->
+            <li>
+              <a onclick="chuangxin()" href="/Apps/aboutepson/12-index.aspx">
+                <span class="m_menu_productsInfo m_menu_productsInfo_sm">
+                  创新 <em class="m_menu_nav" >
+                    <img src="/common/Style/img/menu_nav_arr.png"/>
+                  </em>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a onclick="newsZixun()" href="/news/">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              新闻资讯<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a onclick="linkUs()" href="/Apps/aboutepson/13-index.aspx">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              联系我们<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a onclick="joinUs()" href="/Apps/career/PositionInfoSearch.aspx" target="_blank">
+            <span class="m_menu_productsInfo m_menu_productsInfo_T">
+              加入我们<em class="m_menu_nav" >
+                <img src="/common/Style/img/menu_nav_arr.png"/>
+              </em>
+            </span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- 弹窗 start -->
+  <div class="show_pic_wx" gsregion="1" gssnapshot="8" gsposfixed="1">
+    <img src="/common/Style/img/show_weixin.png" class="pc" />
+    <img src="/common/Style/img/show_weixin.png" class="pd" />
+    <img src="/common/Style/img/show_weixin_m.png" class="mb" />
+    <span class="weixin_close">
+      <img src="/common/Style/img/close_tanceng.png" />
+    </span>
+  </div>
+  <!-- 弹窗  end -->
+</div>
+
+<!--header end-->
+<div class="zhezhao1"></div>
+
+    <div class="error_body">
+        <p>非常抱歉，你正试图打开的页面目前不能正常浏览。<br/>
+           我们已经发现了这个问题，并且正在试图解决它。 </p>
+        <div class="returnInfo">
+            您可以点击返回爱普生中国网站首页:&nbsp;<a href="http://www.epson.com.cn">点击跳转</a>
+        </div>
+    </div>
+
+    <section class="foot-nav container-fluid clearfix" style="background:#ebebeb">
+    <div class="container" style="background:none">
+        <div class="row foot-nav-pc clearfix">
+            <div class="footnav">
+                <ul>
+                    <li><strong>产品系列</strong></li>
+                    <li><a href="/Apps/forhome/index.aspx" data-trackevent="Button1,Footer,家用系列">家用系列</a></li>
+                    <li><a href="/Apps/forwork/index.aspx" data-trackevent="Button2,Footer,商用系列">商用系列</a></li>
+                </ul>
+                <div class="footnav-line"></div>
+            </div>
+            <div class="footnav">
+                <ul>
+                    <li><strong>服务支持</strong></li>
+                    <li><a href="/Apps/tech_support/GuideDrive.aspx?columnid=384&amp;sort-1=376&amp;product-2=378"  data-trackevent="Button3,Footer,驱动及手册证书下载">驱动及手册证书下载</a></li>
+                    <li><a href="/Apps/tech_support/website.aspx" data-trackevent="Button4,Footer,服务机构查询">服务机构查询</a></li>
+                    <li><a href="/apps/tech_support/productlist.aspx" data-trackevent="Button5,Footer,常见问题">常见问题</a></li>
+                </ul>
+                <div class="footnav-line"></div>
+            </div>
+            <div class="footnav">
+                <ul>
+                    <li><strong>购买指南</strong></li>
+                    <li><a href="/Apps/buy/index.aspx" data-trackevent="Button6,Footer,经销商查询">经销商查询</a></li>
+                    <li><a class="external" href="https://epson.tmall.com/" target="_blank"  data-trackevent="Button7,Footer,爱普生天猫旗舰店" data-track="targetpage/footer/tianmao,">爱普生天猫旗舰店</a></li>
+                    <li><a class="external" href="http://epson.jd.com/" target="_blank"  data-trackevent="Button8,Footer,京东专卖店" data-track="targetpage/footer/jingdong,">京东专卖店</a></li>
+                </ul>
+                <div class="footnav-line"></div>
+            </div>
+            <div class="footnav">
+                <ul>
+                    <li><strong>关于爱普生</strong></li>
+                    <li><a href="/Apps/aboutepson/aboutEpson.aspx" data-trackevent="Button9,Footer,公司简介">公司简介</a></li>
+                    <li><a href="/news/"  data-trackevent="Button10,Footer,新闻资讯">新闻资讯</a></li>
+                    <li><a href="/Apps/aboutepson/11-index.aspx" data-trackevent="Button11,Footer,中国业务网络">中国业务网络</a></li>
+                </ul>
+                <div class="footnav-line"></div>
+            </div>
+            <div class="footnav">
+                <ul>
+                    <li><strong>关联网站</strong></li>
+                    <li><a href="http://www.orientwatch.com.cn" data-trackevent="Button19,Footer,东方表官方网站">东方表（ORIENT）官方网站</a></li>
+                    <li><a href="https://partner.epson.com.cn" data-trackevent="Button20,Footer,爱普生中国合作伙伴门户">爱普生中国合作伙伴门户</a></li>
+                    <li class="mobile_ban"><a href="http://m.epson.com.cn/MobileApps/mobile/Login.aspx" data-trackevent="Button21,Footer,爱普生用户俱乐部">
+                    爱普生用户俱乐部
+                    </a></li>
+                </ul>
+            </div>
+            <!-- <div class="footnav">
+                <ul>
+                    <li><a href="http://m.epson.com.cn/MobileApps/mobile/Login.aspx">
+                    爱普生会员俱乐部
+                    </a></li>
+                </ul>
+            </div> -->
+        </div>
+        <!-- <div class="row foot-nav-mobile">
+            <div class="col-xs-6">
+                <strong>
+                    爱普生官方公众平台
+                </strong>
+                <p><a class="weibo">
+                    <img width="35" height="35" border="0" src="/common/new/images/sina_m.png">
+                    </a>
+                    <a class="weixin">
+                    <img width="35" height="35" border="0" src="/common/new/images/weixin_m.png">
+                    </a>
+                    <a class="youku">
+                    <img width="35" height="35" border="0" src="/common/new/images/video_link_1.png">
+                    </a>
+                </p>
+            </div>
+            <div class="col-xs-6">
+                <strong>
+                    爱普生会员俱乐部
+                </strong>
+                <p><a href="http://m.epson.com.cn/MobileApps/mobile/Login.aspx">
+                    <img width="35" height="35" border="0" src="/common/new/images/user_m.png">
+                    </a>
+                </p>
+            </div>
+        </div> -->
+    </div>
+</section>
+<footer class="container-fluid clearfix">
+    <div class="row">
+        <div class="footer-nav">
+             <a  target="_blank" href="/Apps/sitemap/index.aspx">网站地图</a> 
+            <a href="/Apps/aboutepson/13-index.aspx" data-trackevent="Button15,Footer,联系我们">联系我们</a>
+            <a href="/Apps/career/PositionInfoSearch.aspx" data-trackevent="Button16,Footer,加入我们">加入我们</a>
+            <a href="/apps/claim.aspx" data-trackevent="Button17,Footer,使用声明">使用声明</a>
+            <a href="/apps/yszc.aspx" data-trackevent="Button18,Footer,隐私政策">隐私政策</a>
+        </div>
+        <div class="pull-right">
+            <div class="footer-right">
+                <em>© <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script> All Rights Reserved </em>
+            </div>
+            <div class="footer-ba">
+                &nbsp; 爱普生(中国)有限公司 沪<em>ICP</em>备<em>14007641号</em>
+                <a href="http://bcp.12312.gov.cn/chengxin?d=3801005&amp;t=101" target="_blank">
+                    <img src="/common/new/images/footer_xin.png" alt="">
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
+<style type="text/css">
+.footnav a{ cursor: pointer; }
+.foot-nav-pc{ padding: 50px 0; display: block }
+.foot-nav .container{ padding: 0 15px !important; }
+.foot-nav-pc.row{ margin: 0 }
+.zhezhao{ position: absolute; z-index: 4; width: 100%; background: rgba(0,0,0,0.5); top: 70px; left: 0;right: 0; bottom: 0; display: none}
+.footnav{width:20%;float:left;position:relative}
+.footnav ul{padding:0}
+.footnav-line{position:absolute;right:20%;top:35px;width:1px;height:60px;background:#c3c3c3}
+.footnav li{font-size:15px;line-height:30px}
+.footnav li strong{margin:0 0 10px;height:30px;line-height:30px;font-size:18px;color:#676767;font-weight:700}
+.footnav li a{color:#676767}
+footer.container-fluid{background:#000;color:#fff;font-size:14px;line-height:63px;padding:0 30px}
+footer .row{margin:0;width:100%}
+.footer-ba a{margin:11px 5px 0 10px; padding: 0; line-height: 0}
+.footer-ba a img{ margin-bottom: -13px; }
+footer div{float:left; box-sizing: border-box;}
+footer .footer-nav a{color:#fff;margin-right:5px;padding-right:5px;border-right:1px solid #fff;font-size:14px; white-space: nowrap}
+footer .row .footer-nav a:last-child{border-right:0;padding-right:0;margin-right:0}
+footer em{font-style:normal;font-family:Helvetica,Arial,"微软雅黑","黑体",sans-serif}
+.foot-nav .container { margin: 0 auto !important }
+.pull-right{ float: right; }
+.clearfix:before,.clearfix:after{ 
+    content:""; 
+    display:table; 
+} 
+.clearfix:after{clear:both;} 
+.clearfix{ 
+    *zoom:1;/*IE/7/6*/
+}
+footer .row{ margin: 0 auto; }
+.mobile_ban{ display: none }
+@media(max-width:768px){footer.container-fluid{line-height:23px;padding:15px 0}
+.mobile_ban{ display: block; }
+.lb .row{ padding: 0 30px; }
+.footer-ba a img{width:20px; margin-bottom: -4px; margin-left: -5px; }
+/*.foot-nav-pc{display:none}*/
+.foot-nav-mobile{display:block}
+.footnav{width:50%;float:left;position:relative; margin-bottom: 15px; padding-left: 5%; padding-right: 5%; box-sizing: border-box;}
+.footnav:nth-child(5){width:100%;}
+.footnav li{ font-size: 13px; line-height: 20px }
+.foot-nav-pc{ padding: 20px 0; }
+.footnav li strong{ font-size: 16px; margin-bottom: 5px; } 
+.footnav-line{ display: none;}
+
+footer div{width:100%;text-align:center}
+}
+
+
+
+@media (min-width: 768px){
+.foot-nav .container {
+    width: 750px;
+}}
+@media (min-width: 992px){
+.foot-nav .container {
+    width: 970px;
+}}
+@media (min-width: 1200px){
+.foot-nav .container {
+    width: 1170px;
+}}
+.middleNavWrapper{ width: auto !important }
+</style>
+<script type="text/javascript">
+    $(".weibo").click(function() {
+        var i = confirm("您现在正在离开爱普生网站。爱普生公司不对您通过本网站而可能进入的网站做任何陈述或保证。当您访问非爱普生网站时，即使该网站包含有爱普生的标志和关于爱普生产品和服务的内容，这类网站也是独立于爱普生公司的，爱普生公司并不控制非爱普生网站的运营。此外，指向非爱普生网站的链接并不意味着爱普生公司担保该网站或对该网站的使用承担任何责任。");
+        1 == i && window.open("http://weibo.com/epsoncn")
+    }),
+    $(".youku").click(function() {
+        var i = confirm("您现在正在离开爱普生网站。爱普生公司不对您通过本网站而可能进入的网站做任何陈述或保证。当您访问非爱普生网站时，即使该网站包含有爱普生的标志和关于爱普生产品和服务的内容，这类网站也是独立于爱普生公司的，爱普生公司并不控制非爱普生网站的运营。此外，指向非爱普生网站的链接并不意味着爱普生公司担保该网站或对该网站的使用承担任何责任。");
+        1 == i && window.open("http://i.youku.com/u/UNTAxMjM2NTQw")
+    }),
+    $(".weixin").click(function() {
+        if ($(".showFooterWX").fadeToggle(300), $(window).width() > 500) {
+            var i = $(".showFooterWX").width() / 2,
+            t = $(".showFooterWX").height() / 2;
+            $(".showFooterWX").css({
+                "margin-left": -i,
+                "margin-top": -t,
+                top: "50%"
+            })
+        }
+    })
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5VC7V" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5VC7V');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PS63RS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PS63RS');</script>
+
+</body>
+</html>
