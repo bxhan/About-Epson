@@ -1,8 +1,8 @@
 /* 
 * @Author: Marte
 * @Date:   2016-10-17 09:52:12
-* @Last Modified by:   hxx
-* @Last Modified time: 2016-10-20 23:36:17
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-10-21 16:48:50
 */
 /*引入字体库*/
 @font-face {
@@ -41,7 +41,7 @@ a{ text-decoration:none !important; cursor:pointer !important;}
 .clearfix:after { clear: both; }
 .clearfix { *zoom:1;}
 .clear { clear:both;}
-body{ font-family:"微软雅黑";}
+body{ font-family:Helvetica,Arial,"微软雅黑","黑体";}
 
 
 
@@ -134,7 +134,7 @@ body{ font-family:"微软雅黑";}
 
 .mains{
     width: 100%;
-    padding:30px 33px 25px 47px;
+    padding:30px 33px 0 47px;
     background:#fff;
 }
 .mains ul li{
@@ -171,11 +171,82 @@ body{ font-family:"微软雅黑";}
 .mains ul li{
     display:inline-block;
 }
+.news_more{
+    width: 100%;
+}
+.news_more img{
+    width: 100%;
+}
+.news_more{
+    margin-bottom:24px;
+}
+.us img{
+    width:49.5%;
+    float: left;
+    margin-right:0.5%;
+}
+.us .last{
+    margin-right:0;
+}
+.footer-nav{
+    position: relative;
+    width: 100%;
+    padding-top:36px;
+    height: 221px;
+    background:#ebebeb;
+}
+.footer-nav ul{
+    position: relative;
+    width: 20%;
+    float: left;
+}
+footer ul li h3{
+    font-size:18px;
+    line-height: 33px;
+    color:#676767;
+}
+footer ul li a{
+    font-size:13px;
+    color:#676767;
+    line-height: 30px;
+    display:block;
+}
+footer .line{
+    background:#c3c3c3;
+    position: absolute;
+    top:35px;
+    right:20%;
+    height: 60px;
+    width: 1px;
+
+}
+.copyright{
+    height:63px;
+    width: 100%;
+    background:#000;
+    padding:0 35px 0 30px;
+}
+.copyright a{
+    color:#fff;
+    font-size:14px;
+}
+.copy_r{
+    color:#fff;
+    font-size:14px;
+}
+.copy_r img{
+    margin-left:10px;
+}
+@media screen and (min-width:1024px) and (max-width:1920px  ){
+    .copyright{
+        line-height:63px;
+    }
+}
 @media (max-width:1024px){
 
     .about{
         padding-left:35px;
-    }
+    }  
     .content{
         padding-top:102px;
         background:url(../images/aboutepson_bg_pd.png) no-repeat center top;
@@ -194,6 +265,10 @@ body{ font-family:"微软雅黑";}
     }
 }
 @media (max-width:768px) {
+    .container{
+        padding-left:0 !important;
+        padding-right:0 !important;
+    }
     .content{
         padding-top:102px;
         background:url(../images/aboutepson_bg_mb.png) no-repeat center top;
@@ -202,14 +277,89 @@ body{ font-family:"微软雅黑";}
     .mains{
         width: 96%;
         margin:0 auto;
-        padding:25px 0 0 0;
+        padding-top:25px;
     }
     
     .content{
         background:url(../images/aboutepson_bg_1920.png) no-repeat top center;
     }
-    
+    .footer-nav{
+        padding:20px 0 20px 20px;
+    }
+    .copyright{
+        padding:15px 0;
+        height:99px;
+    }
+    .copy_l{
+        width: 100%;
+        text-align:center;
+    }
+    .copy_l img{
+        width: 20px;
+        margin-left:10px;
+    }
 }
 @media (max-width:640px){
-    
+    .footer-nav ul{
+         width:50%;
+         margin-bottom:15px;
+    }
+    .footer-nav{
+        height:auto;
+        padding:20px 0 0 43px;
+    }
+    .footer-nav .line{
+        display:none;
+    }   
+    .footer-nav ul li a{
+        font-size:13px;
+        color:#676767;
+        line-height: 20px;
+        display:block;
+    }
+    .footer-nav ul li h3{
+        font-size:14px;
+        line-height: 33px;
+        color:#676767;
+    }
+    .logo{
+        margin-left:45px;
+    }
+    .mobil_nav{
+        right:35px;
+    }
+    .content{
+        background:url(../images/aboutepson_bg_mb.png) no-repeat top center;
+    }
+    .container{
+        padding-left:0 !important;
+        padding-right:0 !important;
+    }
+    .mains ul li{
+        margin-bottom:20px;
+        width:47%;
+        margin-right:4%;
+        height:118px;
+        padding-right:0;
+        padding-left:5px;
+    }
+    .mains .imgbox{
+        width:98%;
+        left:5px;
+        height: 35px;
+        line-height:35px;
+    }
+    .mains .imgbox a{
+        font-size:12px;
+    }
+    .mains .imgbox h3{
+        font-size:14px;
+        line-height: 35px;
+    }
+    .mains ul li.last{
+        margin-right:0;
+    }
+    .mains ul li span{
+        background:url(../images/pic_gsjj.png) no-repeat top center;
+    }
 }
